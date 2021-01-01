@@ -1,11 +1,11 @@
 {
-    "name": "chocolateratings",
-    "short_name": "chocolateratings",
+    "name": "Chocolate Milk Rating",
+    "short_name": "Chocolate Milk Rating",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "How good is your chocolate milk? Find out before they do.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
